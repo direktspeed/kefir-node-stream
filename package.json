@@ -1,6 +1,6 @@
 {
   "name": "kefir-node-stream",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Return a properly lazy Kefir stream given a Node streams2 stream",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,8 @@
     "streams2",
     "lazy"
   ],
-  "author": "Kris Reeves",
-  "license": "ISC",
+  "author": "Frank Lemanschik",
+  "license": "APACHE-2",
   "bugs": {
     "url": "https://github.com/myndzi/kefir-node-stream/issues"
   },
