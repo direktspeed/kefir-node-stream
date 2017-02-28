@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/myndzi/kefir-node-stream#readme",
   "peerDependencies": {
-    "kefir": "^2.6.0"
+    "kefir": "^3.7.1"
   },
   "devDependencies": {
     "debug": "^2.2.0",
